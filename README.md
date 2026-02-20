@@ -12,6 +12,9 @@ It’s not intended to be fancy or responsive yet — the focus is on keeping th
 - Basic **CSS styling** (colors, typography, spacing)
 - **Git workflow** (commit early & often)
 
+## Live Preview
+👉 [View the project here](https://jaspertabin.github.io/odin-landing-page/)
+
 ## Notes
 This project is part of my learning path, so I kept it simple and focused on fundamentals.  
 If you’re checking it out, feel free to be kind — and enjoy exploring!
